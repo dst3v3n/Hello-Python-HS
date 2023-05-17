@@ -2,6 +2,8 @@
 print("Hola python")
 print('Hola python')
 
+#Esto es un comentario
+
 """
 Este es un comentario
 en varias lineas
