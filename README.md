@@ -1,7 +1,7 @@
 # Hello python Harold Sabogal
 
 [![Python](https://img.shields.io/badge/Python-1.11.3+-802DBF?style=for-the-badge&logo=python&logoColor=802DBF&labelColor=black)](https://www.python.org/)
-[![Visual-Studio-Code](https://img.shields.io/badge/visulstudiocode-1.78+-802DBF?style=for-the-badge&logo=visual-studio-code&logoColor=802DBF&labelColor=black)](https://code.visualstudio.com/)
+[![Visual-Studio-Code](https://img.shields.io/badge/visualstudiocode-1.78+-802DBF?style=for-the-badge&logo=visual-studio-code&logoColor=802DBF&labelColor=black)](https://code.visualstudio.com/)
 
 
 ## Aprendiendo Python desde Cero:purple_heart:
@@ -22,7 +22,7 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 00  |  [Introduction](./readme.md)|
+| 00  |  [Introduction](./README.md)|
 | 01  |  [Hello](./Principiante_py/00_hello.py)|
 | 02  |  [Variables](./Principiante_py/01_variables.py)|
 | 03  |  [Operadores](./Principiante_py/02_operators.py)|
