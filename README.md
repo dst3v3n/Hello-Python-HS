@@ -56,6 +56,8 @@ print(hello world markdown!)
 <!---GIT HUB MARKDOWN-->
 
 * [x] Tarea 1 <!--Checklist-->
-* [] Tarea 2 <!--Checklist-->
-* [] Tarea 3 <!--Checklist-->
+* [ ] Tarea 2 <!--Checklist-->
+* [ ] Tarea 3 <!--Checklist-->
 * [x] Tarea 4 <!--Checklist-->
+
+@dst3v3n :dragon: :+1:
