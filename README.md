@@ -27,6 +27,8 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 | 02  |  [Variables](./Principiante_py/01_variables.py)|
 | 03  |  [Operadores](./Principiante_py/02_operators.py)|
 | 04  |  [Strings](./Principiante_py/03_strings.py)|
+| 05  |  [Lists](./Principiante_py/04_lists.py)|
+| 06  |  [Tuples](./Principiante_py/05_tuples.py)|
 
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
