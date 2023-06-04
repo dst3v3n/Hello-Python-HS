@@ -18,7 +18,7 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 
 
 ----------
-# Contenido de aprendizaje
+# Contenido de aprendizaje Basic
 
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
