@@ -23,12 +23,16 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 00  |  [Introduction](./README.md)|
-| 01  |  [Hello](./Principiante_py/00_hello.py)|
-| 02  |  [Variables](./Principiante_py/01_variables.py)|
-| 03  |  [Operadores](./Principiante_py/02_operators.py)|
-| 04  |  [Strings](./Principiante_py/03_strings.py)|
-| 05  |  [Lists](./Principiante_py/04_lists.py)|
-| 06  |  [Tuples](./Principiante_py/05_tuples.py)|
+| 01  |  [Hello](./Basic_py/00_hello.py)|
+| 02  |  [Variables](./Basic_py/01_variables.py)|
+| 03  |  [Operators](./Basic_py/02_operators.py)|
+| 04  |  [Strings](./Basic_py/03_strings.py)|
+| 05  |  [Lists](./Basic_py/04_lists.py)|
+| 06  |  [Tuples](./Basic_py/05_tuples.py)|
+| 07  |  [Sets](./Basic_py/06_sets.py)|
+| 06  |  [Dicts](./Basic_py/07_dicts.py)|
+| 06  |  [Conditionals](./Basic_py/08_conditionals.py)|
+| 06  |  [Loops](./Basic_py/09_loops.py)|
 
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
