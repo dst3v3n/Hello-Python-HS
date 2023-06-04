@@ -9,7 +9,7 @@
 ### El proyecto lo estoy realizando del  curso de [@mouredev](https://github.com/mouredev) 
 -----------
 
-## Python desde cero 10 HORAS!
+## Python desde cero basico de 10 HORAS!
 
 Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
 > Código: Directorio "Principiante" en el proyecto
@@ -33,6 +33,10 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 | 08  |  [Dicts](./Basic_py/07_dicts.py)|
 | 09  |  [Conditionals](./Basic_py/08_conditionals.py)|
 | 10  |  [Loops](./Basic_py/09_loops.py)|
+| 11 |  [Funtions](./Basic_py/10_functions.py)|
+| 12  |  [Classes](./Basic_py/11_classes.py)|
+| 13  |  [Exceptions](./Basic_py/12_exceptions.py)|
+| 14  |  [Modules](./Basic_py/13_modules.py)|
 
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
