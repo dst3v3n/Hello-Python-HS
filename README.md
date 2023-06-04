@@ -30,9 +30,9 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 | 05  |  [Lists](./Basic_py/04_lists.py)|
 | 06  |  [Tuples](./Basic_py/05_tuples.py)|
 | 07  |  [Sets](./Basic_py/06_sets.py)|
-| 06  |  [Dicts](./Basic_py/07_dicts.py)|
-| 06  |  [Conditionals](./Basic_py/08_conditionals.py)|
-| 06  |  [Loops](./Basic_py/09_loops.py)|
+| 08  |  [Dicts](./Basic_py/07_dicts.py)|
+| 09  |  [Conditionals](./Basic_py/08_conditionals.py)|
+| 10  |  [Loops](./Basic_py/09_loops.py)|
 
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
