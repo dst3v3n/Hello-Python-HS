@@ -6,10 +6,10 @@
 
 ## Aprendiendo Python desde Cero:purple_heart:
 
-### El proyecto lo estoy realizando del  curso de [@mouredev](https://github.com/mouredev) 
+### El proyecto lo estoy realizando del  curso de [mouredev](https://github.com/mouredev) 
 -----------
 
-## Python desde cero basico de 10 HORAS!
+## Curso de fundamentos desde cero
 
 Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
 > Código: Directorio "Principiante" en el proyecto
@@ -38,6 +38,19 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 | 13  |  [Exceptions](./Basic_py/12_exceptions.py)|
 | 14  |  [Modules](./Basic_py/13_modules.py)|
 
+----
+## Curso intermedio de fundamentos desde cero
+
+Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la ruta de aprendizaje desde la última lección del curso de inicial.
+>Código: Directorio "Intermediate" en el proyecto
+
+<a href="https://youtu.be/TbcEqkabAWU"><img src="http://i3.ytimg.com/vi/TbcEqkabAWU/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+|# Files | Topics                                                    |
+|------|:---------------------------------------------------------:|
+| 00  |  [Datos](./Intermediate_py/00_dates.py)|
+| 01  |  [List Comprehension](./Intermediate_py/01_list_comprehension.py)|
+| 02  |  [Challenge](./Intermediate_py/02_challenge.py)|
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
 --------
