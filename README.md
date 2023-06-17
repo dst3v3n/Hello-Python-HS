@@ -51,6 +51,7 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 | 00  |  [Datos](./Intermediate_py/00_dates.py)|
 | 01  |  [List Comprehension](./Intermediate_py/01_list_comprehension.py)|
 | 02  |  [Challenge](./Intermediate_py/02_challenge.py)|
+| 03  |  [Markdown](./Intermediate_py/PRUEBA.md)|
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
 --------
