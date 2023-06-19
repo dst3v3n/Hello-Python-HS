@@ -48,10 +48,13 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 00  |  [Datos](./Intermediate_py/00_dates.py)|
+| 00  |  [Dates](./Intermediate_py/00_dates.py)|
 | 01  |  [List Comprehension](./Intermediate_py/01_list_comprehension.py)|
 | 02  |  [Challenge](./Intermediate_py/02_challenge.py)|
-| 03  |  [Markdown](./Intermediate_py/PRUEBA.md)|
+| 03  |  [Lambdas](./Intermediate_py/03_lambdas.py)|
+| 04  |  [Order Functions](./Intermediate_py/04_higher_order_functions.py)|
+| 05  |  [Error Types](./Intermediate_py/05_error_types.py)|
+| 06  |  [Markdown](./Intermediate_py/PRUEBA.md)|
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
 --------
@@ -63,7 +66,7 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 ![GitHub Followers](https://img.shields.io/github/followers/dst3v3n?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/dst3v3n?style=social)
 
-Soy estudiante del SENA desde hace dos año. Este años estoy aprendiendo sobre Analisis y Desarrollo de Software (ADSO) como lo he comentado anteriormente, lo estoy estudiando en el SENA. Quiero seguir aprendiendo mas sobre el mundo del Desarrollo de software **[@dst3v3n](https://github.com/dst3v3n)**.
+Soy estudiante del SENA desde hace dos año. Este años estoy aprendiendo sobre Analisis y Desarrollo de Software (ADSO) Quiero seguir aprendiendo mas sobre el mundo del Desarrollo de software **[@dst3v3n](https://github.com/dst3v3n)**.
 
 ### En mi perfil de GitHub tienes más información
 
