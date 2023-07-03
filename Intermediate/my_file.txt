@@ -1,0 +1,6 @@
+Mi nombre es Harold
+Mi apellido es Sabogal
+18 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Java
+Y Swift

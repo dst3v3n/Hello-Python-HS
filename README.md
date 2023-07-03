@@ -48,13 +48,14 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 00  |  [Dates](./Intermediate_py/00_dates.py)|
-| 01  |  [List Comprehension](./Intermediate_py/01_list_comprehension.py)|
-| 02  |  [Challenge](./Intermediate_py/02_challenge.py)|
-| 03  |  [Lambdas](./Intermediate_py/03_lambdas.py)|
-| 04  |  [Order Functions](./Intermediate_py/04_higher_order_functions.py)|
-| 05  |  [Error Types](./Intermediate_py/05_error_types.py)|
-| 06  |  [Markdown](./Intermediate_py/PRUEBA.md)|
+| 00  |  [Dates](./Intermediate/00_dates.py)|
+| 01  |  [List Comprehension](./Intermediate/01_list_comprehension.py)|
+| 02  |  [Challenge](./Intermediate/02_challenge.py)|
+| 03  |  [Lambdas](./Intermediate/03_lambdas.py)|
+| 04  |  [Order Functions](./Intermediate/04_higher_order_functions.py)|
+| 05  |  [Error Types](./Intermediate/05_error_types.py)|
+| 06  |  [File Handing](./Intermediate/06_file_handing.py)|
+| 07  |  [Markdown](./Intermediate/PRUEBA.md)|
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
 --------
