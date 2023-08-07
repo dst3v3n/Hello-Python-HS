@@ -23,20 +23,20 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 00  |  [Introduction](./README.md)|
-| 01  |  [Hello](./Basic_py/00_hello.py)|
-| 02  |  [Variables](./Basic_py/01_variables.py)|
-| 03  |  [Operators](./Basic_py/02_operators.py)|
-| 04  |  [Strings](./Basic_py/03_strings.py)|
-| 05  |  [Lists](./Basic_py/04_lists.py)|
-| 06  |  [Tuples](./Basic_py/05_tuples.py)|
-| 07  |  [Sets](./Basic_py/06_sets.py)|
-| 08  |  [Dicts](./Basic_py/07_dicts.py)|
-| 09  |  [Conditionals](./Basic_py/08_conditionals.py)|
-| 10  |  [Loops](./Basic_py/09_loops.py)|
-| 11 |  [Funtions](./Basic_py/10_functions.py)|
-| 12  |  [Classes](./Basic_py/11_classes.py)|
-| 13  |  [Exceptions](./Basic_py/12_exceptions.py)|
-| 14  |  [Modules](./Basic_py/13_modules.py)|
+| 01  |  [Hello](./Basic/00_hello.py)|
+| 02  |  [Variables](./Basic/01_variables.py)|
+| 03  |  [Operators](./Basic/02_operators.py)|
+| 04  |  [Strings](./Basic/03_strings.py)|
+| 05  |  [Lists](./Basic/04_lists.py)|
+| 06  |  [Tuples](./Basic/05_tuples.py)|
+| 07  |  [Sets](./Basic/06_sets.py)|
+| 08  |  [Dicts](./Basic/07_dicts.py)|
+| 09  |  [Conditionals](./Basic/08_conditionals.py)|
+| 10  |  [Loops](./Basic/09_loops.py)|
+| 11 |  [Funtions](./Basic/10_functions.py)|
+| 12  |  [Classes](./Basic/11_classes.py)|
+| 13  |  [Exceptions](./Basic/12_exceptions.py)|
+| 14  |  [Modules](./Basic/13_modules.py)|
 
 ----
 ## Curso intermedio de fundamentos desde cero
@@ -55,8 +55,23 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 | 04  |  [Order Functions](./Intermediate/04_higher_order_functions.py)|
 | 05  |  [Error Types](./Intermediate/05_error_types.py)|
 | 06  |  [File Handing](./Intermediate/06_file_handing.py)|
-| 07  |  [Markdown](./Intermediate/PRUEBA.md)|
+| 07  |  [Regular Expressions](./Intermediate/07_regular_expressions.py)|
+| 08  |  [Package Manager](./Intermediate/08_python_package_manager.py)|
+| 09  |  [Markdown](./Intermediate/PRUEBA.md)|
 ## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
+
+-----
+## Backend desde cero
+
+Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
+
+> Código: Directorio "Backend" en el proyecto
+
+<a href="https://youtu.be/_y9qQZXE24A"><img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+|# Files | Topics                                                    |
+|------|:---------------------------------------------------------:|
+| 00  |  [Types Hints](.//Backend/type_hints.py)|
 
 --------
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
