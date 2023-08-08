@@ -7,3 +7,5 @@
  * - Imprime el cálculo del área de un polígono de cada tipo.
  */ 
 """
+
+def poligono ():

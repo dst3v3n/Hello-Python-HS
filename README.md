@@ -1,10 +1,12 @@
 # Hello python Harold Sabogal
 
-[![Python](https://img.shields.io/badge/Python-1.11.3+-802DBF?style=for-the-badge&logo=python&logoColor=802DBF&labelColor=black)](https://www.python.org/)
-[![Visual-Studio-Code](https://img.shields.io/badge/visualstudiocode-1.78+-802DBF?style=for-the-badge&logo=visual-studio-code&logoColor=802DBF&labelColor=black)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-1.11.3+-3AA0E9?style=for-the-badge&logo=python&logoColor=3AA0E9A&labelColor=black)](https://www.python.org/)
+[![FastApi](https://img.shields.io/badge/FastApi-1.11.3+-3AA0E9?style=for-the-badge&logo=FastApi&logoColor=3AA0E9&labelColor=black)](https://fastapi.tiangolo.com/)
+[![MongoDB](https://img.shields.io/badge/MondoDB-1.11.3+-3AA0E9?style=for-the-badge&logo=MongoDB&logoColor=3AA0E9&labelColor=black)](https://www.mongodb.com/es)
+[![Visual-Studio-Code](https://img.shields.io/badge/visualstudiocode-1.78+-3AA0E9?style=for-the-badge&logo=visual-studio-code&logoColor=3AA0E9&labelColor=black)](https://code.visualstudio.com/)
 
 
-## Aprendiendo Python desde Cero:purple_heart:
+## Aprendiendo Python desde Cero:blue_heart:
 
 ### El proyecto lo estoy realizando del  curso de [mouredev](https://github.com/mouredev) 
 -----------
@@ -58,9 +60,11 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 | 07  |  [Regular Expressions](./Intermediate/07_regular_expressions.py)|
 | 08  |  [Package Manager](./Intermediate/08_python_package_manager.py)|
 | 09  |  [Markdown](./Intermediate/PRUEBA.md)|
-## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:purple_heart:
 
------
+<br>
+
+----
+
 ## Backend desde cero
 
 Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
@@ -74,6 +78,7 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 | 00  |  [Types Hints](.//Backend/type_hints.py)|
 
 --------
+## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:blue_heart:
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
  ### Hola, mi nombre es Harold Sabogal.
@@ -86,4 +91,4 @@ Soy estudiante del SENA desde hace dos año. Este años estoy aprendiendo sobre 
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/Guthub-dst3v3n-802DBF?style=for-the-badge&logo=github&logoColor=802DBF&labelColor=black)](https://github.com/dst3v3n)
+[![Web](https://img.shields.io/badge/Guthub-dst3v3n-3AA0E9?style=for-the-badge&logo=github&logoColor=3AA0E9&labelColor=black)](https://github.com/dst3v3n)
