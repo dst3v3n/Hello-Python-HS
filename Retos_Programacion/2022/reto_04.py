@@ -8,4 +8,24 @@
  */ 
 """
 
-def poligono ():
+class Poligono:
+    def __init__(self):
+        self.__base = None
+        self.__altura = None
+        self.__lado1 = None
+        self.__lado2 = None
+
+    def Triangulo (self , Base:int or float , Altura: int or float):
+        self.__base = Base
+        self.__altura = Altura
+        return (Base*Altura)/2
+    
+    def Cuadrado (self, Lado1: int or float , Lado2: int or float):
+        self.__lado1 = Lado1
+        self.__lado2 = Lado2
+        return Lado1*Lado2
+    
+    def Rectangulo (self, Base:int or float , Altura: int or float):
+        self.__base = Base
+        self.__altura = Altura
+        return Base*Altura

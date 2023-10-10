@@ -16,5 +16,3 @@ def fibonacci (rang:int):
         before = after
         after = fibo
         print(fibo)
-    
-fibonacci(150)

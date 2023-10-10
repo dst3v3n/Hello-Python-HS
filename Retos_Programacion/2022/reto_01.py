@@ -13,5 +13,3 @@ def anagrama (first_value:str , second_value:str):
     if first_value.lower() == second_value.lower():
         return False
     return sorted(first_value.lower()) == sorted(second_value.lower())
-
-print(anagrama("amor" , "ramo"))

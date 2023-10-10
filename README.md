@@ -1,10 +1,9 @@
-# Hello python Harold Sabogal
+# Hello python Steven Sabogal
 
 [![Python](https://img.shields.io/badge/Python-1.11.3+-3AA0E9?style=for-the-badge&logo=python&logoColor=3AA0E9A&labelColor=black)](https://www.python.org/)
-[![FastApi](https://img.shields.io/badge/FastApi-1.11.3+-3AA0E9?style=for-the-badge&logo=FastApi&logoColor=3AA0E9&labelColor=black)](https://fastapi.tiangolo.com/)
+[![FastApi](https://img.shields.io/badge/FastApi-0.101.0+-3AA0E9?style=for-the-badge&logo=FastApi&logoColor=3AA0E9&labelColor=black)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://img.shields.io/badge/MondoDB-1.11.3+-3AA0E9?style=for-the-badge&logo=MongoDB&logoColor=3AA0E9&labelColor=black)](https://www.mongodb.com/es)
-[![Visual-Studio-Code](https://img.shields.io/badge/visualstudiocode-1.78+-3AA0E9?style=for-the-badge&logo=visual-studio-code&logoColor=3AA0E9&labelColor=black)](https://code.visualstudio.com/)
-
+[![Visual-Studio-Code](https://img.shields.io/badge/visual_studio_code-1.78+-3AA0E9?style=for-the-badge&logo=visual-studio-code&logoColor=3AA0E9&labelColor=black)](https://code.visualstudio.com/)
 
 ## Aprendiendo Python desde Cero:blue_heart:
 
@@ -19,8 +18,7 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 <a href="https://youtu.be/Kp4Mvapo5kc"><img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 
-----------
-# Contenido de aprendizaje Basic
+## Contenido de aprendizaje Basic
 
 |# Files | Topics                                                    |
 |------|:---------------------------------------------------------:|
@@ -39,6 +37,8 @@ Curso que agrupa todas las clases en directo que hacen referencia a los fundamen
 | 12  |  [Classes](./Basic/11_classes.py)|
 | 13  |  [Exceptions](./Basic/12_exceptions.py)|
 | 14  |  [Modules](./Basic/13_modules.py)|
+
+<br>
 
 ----
 ## Curso intermedio de fundamentos desde cero
@@ -77,17 +77,13 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 |------|:---------------------------------------------------------:|
 | 00  |  [Types Hints](.//Backend/type_hints.py)|
 
+<br>
+
 --------
-## Seguire aprendiendo mas acerca del mundo de **python!**. Este es solo el principio:blue_heart:
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
- ### Hola, mi nombre es Harold Sabogal.
-### Estudiante del SENA
+## Hola, mi nombre es Steven Sabogal
 
-![GitHub Followers](https://img.shields.io/github/followers/dst3v3n?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/dst3v3n?style=social)
-
-Soy estudiante del SENA desde hace dos año. Este años estoy aprendiendo sobre Analisis y Desarrollo de Software (ADSO) Quiero seguir aprendiendo mas sobre el mundo del Desarrollo de software **[@dst3v3n](https://github.com/dst3v3n)**.
+soy estudiante del SENA desde hace dos años. Actualmente, estoy enfocado en aprender sobre Análisis y Desarrollo de Software (ADSO) como parte de mi formación. Mi objetivo es seguir profundizando mis conocimientos en el emocionante mundo del desarrollo de software. Si te interesa este campo, puedes echar un vistazo a mi perfil en GitHub: **[@dst3v3n](https://github.com/dst3v3n)**
 
 ### En mi perfil de GitHub tienes más información
 

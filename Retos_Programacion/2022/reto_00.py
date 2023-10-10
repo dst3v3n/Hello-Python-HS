@@ -19,7 +19,3 @@ def FizzBuzz ():
             print(f"{i} fizz")
         else:
             print(i)
-        
-
-
-FizzBuzz()

@@ -20,4 +20,3 @@ def is_prime():
 
             if not is_divisible:
                 print(number)
-is_prime()
