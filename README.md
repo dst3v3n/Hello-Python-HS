@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-1.11.3+-3AA0E9?style=for-the-badge&logo=python&logoColor=3AA0E9A&labelColor=black)](https://www.python.org/)
 [![FastApi](https://img.shields.io/badge/FastApi-0.101.0+-3AA0E9?style=for-the-badge&logo=FastApi&logoColor=3AA0E9&labelColor=black)](https://fastapi.tiangolo.com/)
-[![MongoDB](https://img.shields.io/badge/MondoDB-1.11.3+-3AA0E9?style=for-the-badge&logo=MongoDB&logoColor=3AA0E9&labelColor=black)](https://www.mongodb.com/es)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1.11.3+-3AA0E9?style=for-the-badge&logo=MongoDB&logoColor=3AA0E9&labelColor=black)](https://www.mongodb.com/es)
 [![Visual-Studio-Code](https://img.shields.io/badge/visual_studio_code-1.78+-3AA0E9?style=for-the-badge&logo=visual-studio-code&logoColor=3AA0E9&labelColor=black)](https://code.visualstudio.com/)
 
 ## Aprendiendo Python desde Cero:blue_heart:
