@@ -57,3 +57,20 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+>[!NOTE]
+>Aqui tienes una nota especial
+
+
+>[!TIP]
+>Aqui tienes un consejo
+
+
+>[!IMPORTANT]
+>Aqui tienes algo importante
+
+>[!WARNING]
+>Alerta
+
+>[!CAUTION]
+>Caution
